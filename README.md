@@ -6,6 +6,7 @@
 ## Example
 
 
+[Click here to open the live demo](https://dhruvmisra.github.io/IPL-Dashboard-Atlan/)
 ## Description
 
 IPL match details across all seasons.
