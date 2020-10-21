@@ -3,12 +3,14 @@
 
 <img src="readme_assets/banner.jpg">
 
-## Live Demo
+## Example
 
 
 ## Description
 
-This dashboard summarizes 10 years of IPL (2008 - 2017) showcasing all the match history and trivia statistics. It offers many SPA functionalities like routing, basic state management, PWA and offline availability. All the data is being parsed from a CSV file and I've tried to make the system as dynamic as possible, allowing modifications to the CSV without affecting the core functionalities and chart generation.
+IPL match details across all seasons.
+The result column can be normal, draw, no-result or tie. If it was a tie, there would also be a super over. normal means that it was a regular match where the team that scored more and won the match.
+
 
 ## Key features
 
