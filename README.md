@@ -23,9 +23,6 @@ The result column can be normal, draw, no-result or tie. If it was a tie, there 
 * **Matches** view contains a library for each and every match played between 2008 and 2017. It also allows multiple filtering and sorting of matches.
 <img src="readme_assets/matches.jpg">
 
-<img src="readme_assets/url.jpg">
-
-* Fully dynamic chart creation using a custom-made component.
 
 * Setup a seamless SCSS styling workflow for theming, making it as simple as updating one variable to change the look of the entire app.
 
