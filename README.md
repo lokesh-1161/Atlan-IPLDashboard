@@ -5,8 +5,6 @@
 
 ## Live Demo
 
-[Click here to open the live demo](https://dhruvmisra.github.io/IPL-Dashboard-Atlan/)
-and explore the 10 years of IPL!
 
 ## Description
 
